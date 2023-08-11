@@ -1,0 +1,29 @@
+.gallery-card{
+    margin: 4px;
+    width: 25%px;
+    
+    overflow: hidden;
+}
+.gallery-img{
+    margin: 0%;
+    padding: 0%;
+}
+.gallery{
+    margin:10px;
+    
+}
+.row {
+    display: flex;
+    
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    display: flex;
+    width: 25%;
+    flex-direction: column;
+  }
+  
+  .column img {
+    vertical-align: middle;
+  }
